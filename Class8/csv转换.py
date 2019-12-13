@@ -1,5 +1,7 @@
 # -*- coding:utf-8 -*-
 import json
+import os
+print(os.getcwd())
 fr=open("pythonCSV.csv",'r')
 print(fr)
 ls=[]

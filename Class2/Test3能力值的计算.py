@@ -16,3 +16,8 @@ for i in range(1 , 365):
 print("五天学习两天不学习的结果是：{:.10f}".format(z))
 
 print(list((6, 0)))
+xx = 1+1.0
+print(xx)
+aa = '%.4f' % 1.232355
+print(round(2/3,2))
+print(aa)
